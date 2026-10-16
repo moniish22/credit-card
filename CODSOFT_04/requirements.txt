@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+joblib>=1.3
+# IMPORTANT: replace the next line with the EXACT version your models were saved with,
+# e.g.  scikit-learn==1.5.2   (python inspect_model.py tells you which one)
+scikit-learn>=1.3
